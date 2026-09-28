@@ -1,4 +1,4 @@
 # Each team member adds their own name to this list via a pull request.
-members = []
+members = ["Nicolas"]
 
 print(f"Hello, World! Our group members are: {members}")
