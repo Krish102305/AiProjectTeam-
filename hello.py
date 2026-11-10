@@ -2,3 +2,4 @@
 members = ["Nicolas", "Krish", "Syd", "Eric", "Divyanshi"]
 
 print(f"Hello, World! Our group members are: {members}")
+print("making changes") # divyanshi 
